@@ -1,9 +1,11 @@
+import Menu from "./components/Menu";
+
 function App() {
     return (
-		<div>
-			Hello world!
-		</div>
-	);
+        <div>
+            <Menu />
+        </div>
+    );
 }
 
 export default App;
